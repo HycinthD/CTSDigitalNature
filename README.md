@@ -19,7 +19,9 @@ print("Hello from Jupyter!")
 
 ## EX:03:VS Code Setup 
 ## code:
-
+```
+print("Hello World")
+```
 ## output:
 <img width="305" height="51" alt="image" src="https://github.com/user-attachments/assets/bfc22fae-08d1-4686-8b5b-f9394c30a0a9" />
 
