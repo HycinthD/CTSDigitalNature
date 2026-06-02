@@ -16,7 +16,7 @@ class Category:
 categories = {
     "Food": Category("Food", 5000),
     "Travel": Category("Travel", 3000),
-    "Entertainment": Category("Entertainment", 2000)
+    "Entertainment": Category("Entertainment", 3000)
 }
 
 while True:
